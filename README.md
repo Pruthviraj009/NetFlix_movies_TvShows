@@ -22,7 +22,6 @@ In this project we have to perform the following
 	The performance of k-means clustering depends upon highly efficient clusters that it forms. But choosing the optimal number of clusters is a big task. There are some different ways to find the optimal cluster size
 1. Elbow method 
 2. Silhouette Score
-![image](https://user-images.githubusercontent.com/86276183/185300841-ce4fd48a-7b38-46d4-a1a6-c49000b82e37.png)
 
 # Conclusion:
 	After Implementing very good analysis and most of the visualisations we have a pretty good idea of what this dataset represents. Dataset contains 7787 Rows and 12 Columns, there are around 2800 null values in director column, 718 on cast and 507 in country.
